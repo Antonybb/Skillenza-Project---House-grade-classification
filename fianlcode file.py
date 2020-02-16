@@ -36,8 +36,8 @@ from sklearn.decomposition import PCA
 # In[4]:
 
 
-train=pd.read_csv('C:/PGA10/Projects/Skillenza/TRAINING.csv')
-test=pd.read_csv('C:/PGA10/Projects/Skillenza/TEST.csv')
+train=pd.read_csv('C:/PGA12/Projects/Skillenza/TRAINING.csv')
+test=pd.read_csv('C:/PGA12/Projects/Skillenza/TEST.csv')
 
 
 # ###### Saving 'Grade' from train and 'id' from test datasets for later use
