@@ -935,5 +935,5 @@ Output['Grade']=Keras_Pred
 # In[253]:
 
 
-Output.to_csv("C:/PGA10/Projects/Skillenza/OutpuFile.csv",index=False)
+Output.to_csv("C:/PGA12/Projects/Skillenza/OutpuFile.csv",index=False)
 
